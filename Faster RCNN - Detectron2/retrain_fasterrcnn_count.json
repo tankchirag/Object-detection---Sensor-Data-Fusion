@@ -1,0 +1,1462 @@
+[
+    {
+        "img_path": "/mnt/c/Users/alhasan/Documents/Python Scripts/detectron/retrain/faster_retrain/val/images/camera_01__2023-07-06-17-38-48-361.png",
+        "bounding_boxes": [
+            [
+                280.4899597167969,
+                286.5715637207031,
+                418.9255065917969,
+                344.4883728027344
+            ],
+            [
+                976.5123901367188,
+                281.83258056640625,
+                1139.7242431640625,
+                364.8015441894531
+            ],
+            [
+                485.02166748046875,
+                354.3703918457031,
+                549.9296875,
+                537.5767822265625
+            ]
+        ],
+        "classes": [
+            "car",
+            "car",
+            "bicycle"
+        ]
+    },
+    {
+        "img_path": "/mnt/c/Users/alhasan/Documents/Python Scripts/detectron/retrain/faster_retrain/val/images/camera_01__2023-07-06-17-38-48-728.png",
+        "bounding_boxes": [
+            [
+                291.0462951660156,
+                287.1107177734375,
+                430.3838806152344,
+                344.104248046875
+            ],
+            [
+                976.3754272460938,
+                282.1266784667969,
+                1139.8602294921875,
+                364.8408508300781
+            ],
+            [
+                495.4659118652344,
+                371.39312744140625,
+                567.4071655273438,
+                580.2364501953125
+            ]
+        ],
+        "classes": [
+            "car",
+            "car",
+            "bicycle"
+        ]
+    },
+    {
+        "img_path": "/mnt/c/Users/alhasan/Documents/Python Scripts/detectron/retrain/faster_retrain/val/images/camera_01__2023-07-06-17-38-49-028.png",
+        "bounding_boxes": [
+            [
+                976.257568359375,
+                282.1199951171875,
+                1139.701416015625,
+                364.926025390625
+            ],
+            [
+                295.9431457519531,
+                287.5498046875,
+                435.38421630859375,
+                344.5047302246094
+            ],
+            [
+                500.55804443359375,
+                392.84112548828125,
+                579.6676025390625,
+                610.5872802734375
+            ]
+        ],
+        "classes": [
+            "car",
+            "car",
+            "bicycle"
+        ]
+    },
+    {
+        "img_path": "/mnt/c/Users/alhasan/Documents/Python Scripts/detectron/retrain/faster_retrain/val/images/camera_01__2023-07-06-17-38-49-261.png",
+        "bounding_boxes": [
+            [
+                976.1596069335938,
+                282.1259765625,
+                1139.75146484375,
+                364.9496765136719
+            ],
+            [
+                299.09039306640625,
+                287.9713439941406,
+                437.549072265625,
+                345.41033935546875
+            ],
+            [
+                493.1844787597656,
+                417.16302490234375,
+                584.0054931640625,
+                655.767333984375
+            ]
+        ],
+        "classes": [
+            "car",
+            "car",
+            "bicycle"
+        ]
+    },
+    {
+        "img_path": "/mnt/c/Users/alhasan/Documents/Python Scripts/detectron/retrain/faster_retrain/val/images/camera_01__2023-07-06-17-38-49-328.png",
+        "bounding_boxes": [
+            [
+                976.1657104492188,
+                282.11297607421875,
+                1139.7239990234375,
+                364.9180603027344
+            ],
+            [
+                299.3683776855469,
+                287.9376525878906,
+                437.9392395019531,
+                346.0399475097656
+            ],
+            [
+                490.0931091308594,
+                421.84820556640625,
+                585.3413696289062,
+                669.6655883789062
+            ]
+        ],
+        "classes": [
+            "car",
+            "car",
+            "bicycle"
+        ]
+    },
+    {
+        "img_path": "/mnt/c/Users/alhasan/Documents/Python Scripts/detectron/retrain/faster_retrain/val/images/camera_01__2023-07-06-17-38-49-428.png",
+        "bounding_boxes": [
+            [
+                976.2159423828125,
+                282.0292053222656,
+                1139.7650146484375,
+                364.9496765136719
+            ],
+            [
+                300.3704528808594,
+                287.50762939453125,
+                437.80499267578125,
+                346.1698913574219
+            ],
+            [
+                479.5750427246094,
+                431.829345703125,
+                576.6888427734375,
+                691.565185546875
+            ]
+        ],
+        "classes": [
+            "car",
+            "car",
+            "bicycle"
+        ]
+    },
+    {
+        "img_path": "/mnt/c/Users/alhasan/Documents/Python Scripts/detectron/retrain/faster_retrain/val/images/camera_01__2023-07-06-17-38-49-528.png",
+        "bounding_boxes": [
+            [
+                976.0853881835938,
+                282.1010437011719,
+                1139.6756591796875,
+                364.8702392578125
+            ],
+            [
+                301.4569091796875,
+                288.00714111328125,
+                438.579833984375,
+                345.95233154296875
+            ],
+            [
+                473.41131591796875,
+                443.4785461425781,
+                572.9068603515625,
+                715.1924438476562
+            ]
+        ],
+        "classes": [
+            "car",
+            "car",
+            "bicycle"
+        ]
+    },
+    {
+        "img_path": "/mnt/c/Users/alhasan/Documents/Python Scripts/detectron/retrain/faster_retrain/val/images/camera_01__2023-07-06-17-38-50-028.png",
+        "bounding_boxes": [
+            [
+                976.0416870117188,
+                282.09796142578125,
+                1139.716552734375,
+                365.0220642089844
+            ],
+            [
+                302.8118591308594,
+                287.5337829589844,
+                441.4618225097656,
+                345.32879638671875
+            ],
+            [
+                377.93927001953125,
+                533.4194946289062,
+                535.4533081054688,
+                903.1517944335938
+            ]
+        ],
+        "classes": [
+            "car",
+            "car",
+            "bicycle"
+        ]
+    },
+    {
+        "img_path": "/mnt/c/Users/alhasan/Documents/Python Scripts/detectron/retrain/faster_retrain/val/images/camera_01__2023-07-06-17-38-50-128.png",
+        "bounding_boxes": [
+            [
+                975.9332885742188,
+                282.0994567871094,
+                1139.800537109375,
+                364.9193115234375
+            ],
+            [
+                350.1673583984375,
+                556.9359130859375,
+                518.65625,
+                956.4880981445312
+            ],
+            [
+                302.6367492675781,
+                287.69287109375,
+                443.2896728515625,
+                345.2272644042969
+            ]
+        ],
+        "classes": [
+            "car",
+            "bicycle",
+            "car"
+        ]
+    },
+    {
+        "img_path": "/mnt/c/Users/alhasan/Documents/Python Scripts/detectron/retrain/faster_retrain/val/images/camera_01__2023-07-06-17-38-50-361.png",
+        "bounding_boxes": [
+            [
+                304.12261962890625,
+                287.09844970703125,
+                441.7528991699219,
+                346.3044128417969
+            ],
+            [
+                975.99072265625,
+                281.98870849609375,
+                1139.69287109375,
+                365.0157775878906
+            ],
+            [
+                210.20233154296875,
+                643.0438842773438,
+                463.0855712890625,
+                1113.27099609375
+            ]
+        ],
+        "classes": [
+            "car",
+            "car",
+            "bicycle"
+        ]
+    },
+    {
+        "img_path": "/mnt/c/Users/alhasan/Documents/Python Scripts/detectron/retrain/faster_retrain/val/images/camera_01__2023-07-06-17-38-50-628.png",
+        "bounding_boxes": [
+            [
+                304.30889892578125,
+                287.14300537109375,
+                441.7191162109375,
+                346.18841552734375
+            ],
+            [
+                976.2366333007812,
+                282.10491943359375,
+                1139.656494140625,
+                364.94134521484375
+            ],
+            [
+                0.0,
+                773.7120971679688,
+                353.740234375,
+                1192.234375
+            ]
+        ],
+        "classes": [
+            "car",
+            "car",
+            "bicycle"
+        ]
+    },
+    {
+        "img_path": "/mnt/c/Users/alhasan/Documents/Python Scripts/detectron/retrain/faster_retrain/val/images/camera_01__2023-07-06-17-38-51-261.png",
+        "bounding_boxes": [
+            [
+                304.3066101074219,
+                287.1873474121094,
+                441.73974609375,
+                346.30120849609375
+            ],
+            [
+                976.3069458007812,
+                282.1745910644531,
+                1139.6787109375,
+                364.97698974609375
+            ]
+        ],
+        "classes": [
+            "car",
+            "car"
+        ]
+    },
+    {
+        "img_path": "/mnt/c/Users/alhasan/Documents/Python Scripts/detectron/retrain/faster_retrain/val/images/camera_01__2023-07-06-17-38-51-828.png",
+        "bounding_boxes": [
+            [
+                304.1932373046875,
+                287.17205810546875,
+                441.83062744140625,
+                346.095947265625
+            ],
+            [
+                976.2237548828125,
+                282.01263427734375,
+                1139.79296875,
+                364.8255310058594
+            ]
+        ],
+        "classes": [
+            "car",
+            "car"
+        ]
+    },
+    {
+        "img_path": "/mnt/c/Users/alhasan/Documents/Python Scripts/detectron/retrain/faster_retrain/val/images/camera_01__2023-07-06-17-38-52-128.png",
+        "bounding_boxes": [
+            [
+                976.0501098632812,
+                282.0880432128906,
+                1139.564208984375,
+                364.95904541015625
+            ],
+            [
+                304.3528747558594,
+                287.09326171875,
+                441.3283386230469,
+                346.369873046875
+            ],
+            [
+                1212.80029296875,
+                746.6605834960938,
+                1578.01416015625,
+                1211.2811279296875
+            ]
+        ],
+        "classes": [
+            "car",
+            "car",
+            "bicycle"
+        ]
+    },
+    {
+        "img_path": "/mnt/c/Users/alhasan/Documents/Python Scripts/detectron/retrain/faster_retrain/val/images/camera_01__2023-07-06-17-38-52-161.png",
+        "bounding_boxes": [
+            [
+                976.1934814453125,
+                282.20025634765625,
+                1139.5902099609375,
+                364.9793395996094
+            ],
+            [
+                304.46160888671875,
+                287.2086486816406,
+                441.4579162597656,
+                346.3855285644531
+            ],
+            [
+                1190.309814453125,
+                727.6307983398438,
+                1536.2237548828125,
+                1209.466552734375
+            ]
+        ],
+        "classes": [
+            "car",
+            "car",
+            "bicycle"
+        ]
+    },
+    {
+        "img_path": "/mnt/c/Users/alhasan/Documents/Python Scripts/detectron/retrain/faster_retrain/val/images/camera_01__2023-07-06-17-38-52-628.png",
+        "bounding_boxes": [
+            [
+                975.8807983398438,
+                282.281005859375,
+                1139.8624267578125,
+                364.8526611328125
+            ],
+            [
+                304.1969299316406,
+                287.2264099121094,
+                441.5527648925781,
+                346.3686218261719
+            ],
+            [
+                959.7224731445312,
+                531.6068115234375,
+                1171.1988525390625,
+                1016.1331787109375
+            ]
+        ],
+        "classes": [
+            "car",
+            "car",
+            "bicycle"
+        ]
+    },
+    {
+        "img_path": "/mnt/c/Users/alhasan/Documents/Python Scripts/detectron/retrain/faster_retrain/val/images/camera_01__2023-07-06-17-38-52-961.png",
+        "bounding_boxes": [
+            [
+                976.1871948242188,
+                282.28851318359375,
+                1139.71337890625,
+                364.8642883300781
+            ],
+            [
+                304.41241455078125,
+                287.2458190917969,
+                441.8037414550781,
+                346.59130859375
+            ],
+            [
+                863.8838500976562,
+                468.8874206542969,
+                1022.171630859375,
+                859.596435546875
+            ]
+        ],
+        "classes": [
+            "car",
+            "car",
+            "bicycle"
+        ]
+    },
+    {
+        "img_path": "/mnt/c/Users/alhasan/Documents/Python Scripts/detectron/retrain/faster_retrain/val/images/camera_01__2023-07-06-17-38-53-328.png",
+        "bounding_boxes": [
+            [
+                306.2105712890625,
+                287.14306640625,
+                443.90625,
+                346.28826904296875
+            ],
+            [
+                976.0716552734375,
+                282.08294677734375,
+                1139.7353515625,
+                364.7622985839844
+            ],
+            [
+                769.0617065429688,
+                423.7847900390625,
+                909.5831298828125,
+                741.2492065429688
+            ]
+        ],
+        "classes": [
+            "car",
+            "car",
+            "bicycle"
+        ]
+    },
+    {
+        "img_path": "/mnt/c/Users/alhasan/Documents/Python Scripts/detectron/retrain/faster_retrain/val/images/camera_01__2023-07-06-17-38-53-561.png",
+        "bounding_boxes": [
+            [
+                308.82623291015625,
+                287.57342529296875,
+                445.92059326171875,
+                346.8407897949219
+            ],
+            [
+                976.0943603515625,
+                282.1297607421875,
+                1139.8857421875,
+                364.8445129394531
+            ],
+            [
+                718.7554321289062,
+                400.41204833984375,
+                848.2573852539062,
+                690.1874389648438
+            ]
+        ],
+        "classes": [
+            "car",
+            "car",
+            "bicycle"
+        ]
+    },
+    {
+        "img_path": "/mnt/c/Users/alhasan/Documents/Python Scripts/detectron/retrain/faster_retrain/val/images/camera_01__2023-07-06-17-38-53-861.png",
+        "bounding_boxes": [
+            [
+                976.4390869140625,
+                282.2294921875,
+                1139.7823486328125,
+                364.810791015625
+            ],
+            [
+                313.70452880859375,
+                287.14666748046875,
+                451.53021240234375,
+                346.5543212890625
+            ],
+            [
+                664.719970703125,
+                380.9681396484375,
+                778.992919921875,
+                634.5106811523438
+            ]
+        ],
+        "classes": [
+            "car",
+            "car",
+            "bicycle"
+        ]
+    },
+    {
+        "img_path": "/mnt/c/Users/alhasan/Documents/Python Scripts/detectron/retrain/faster_retrain/val/images/camera_01__2023-07-06-17-38-54-128.png",
+        "bounding_boxes": [
+            [
+                321.55548095703125,
+                287.5592346191406,
+                459.05316162109375,
+                347.6351013183594
+            ],
+            [
+                976.0784301757812,
+                282.1417236328125,
+                1139.852783203125,
+                364.72100830078125
+            ],
+            [
+                621.9965209960938,
+                366.4397277832031,
+                726.47802734375,
+                599.9990844726562
+            ]
+        ],
+        "classes": [
+            "car",
+            "car",
+            "bicycle"
+        ]
+    },
+    {
+        "img_path": "/mnt/c/Users/alhasan/Documents/Python Scripts/detectron/retrain/faster_retrain/val/images/camera_01__2023-07-06-17-38-54-161.png",
+        "bounding_boxes": [
+            [
+                322.5021667480469,
+                288.1625061035156,
+                461.3953552246094,
+                347.453857421875
+            ],
+            [
+                976.1917114257812,
+                282.206787109375,
+                1139.8013916015625,
+                364.8251037597656
+            ],
+            [
+                619.1334228515625,
+                366.4896240234375,
+                718.5831298828125,
+                594.1688232421875
+            ]
+        ],
+        "classes": [
+            "car",
+            "car",
+            "bicycle"
+        ]
+    },
+    {
+        "img_path": "/mnt/c/Users/alhasan/Documents/Python Scripts/detectron/retrain/faster_retrain/val/images/camera_01__2023-07-06-17-38-54-328.png",
+        "bounding_boxes": [
+            [
+                327.23895263671875,
+                288.35992431640625,
+                470.8017883300781,
+                347.47149658203125
+            ],
+            [
+                976.3587036132812,
+                282.0340881347656,
+                1139.8631591796875,
+                364.91290283203125
+            ],
+            [
+                592.9525756835938,
+                358.24853515625,
+                688.3479614257812,
+                576.4356689453125
+            ]
+        ],
+        "classes": [
+            "car",
+            "car",
+            "bicycle"
+        ]
+    },
+    {
+        "img_path": "/mnt/c/Users/alhasan/Documents/Python Scripts/detectron/retrain/faster_retrain/val/images/camera_01__2023-07-06-17-38-54-928.png",
+        "bounding_boxes": [
+            [
+                975.0955810546875,
+                281.843994140625,
+                1139.452880859375,
+                364.58453369140625
+            ],
+            [
+                362.06939697265625,
+                292.8686218261719,
+                505.1949462890625,
+                348.152587890625
+            ],
+            [
+                514.2117309570312,
+                337.7781677246094,
+                594.9640502929688,
+                520.3036499023438
+            ]
+        ],
+        "classes": [
+            "car",
+            "car",
+            "bicycle"
+        ]
+    },
+    {
+        "img_path": "/mnt/c/Users/alhasan/Documents/Python Scripts/detectron/retrain/faster_retrain/val/images/camera_01__2023-07-06-17-38-55-028.png",
+        "bounding_boxes": [
+            [
+                974.55517578125,
+                281.89910888671875,
+                1139.02392578125,
+                364.3843994140625
+            ],
+            [
+                369.2113952636719,
+                291.34417724609375,
+                512.4315795898438,
+                349.14935302734375
+            ],
+            [
+                503.4135437011719,
+                334.07989501953125,
+                582.0187377929688,
+                513.826904296875
+            ]
+        ],
+        "classes": [
+            "car",
+            "car",
+            "bicycle"
+        ]
+    },
+    {
+        "img_path": "/mnt/c/Users/alhasan/Documents/Python Scripts/detectron/retrain/faster_retrain/val/images/camera_01__2023-07-06-17-38-55-228.png",
+        "bounding_boxes": [
+            [
+                973.5943603515625,
+                281.99725341796875,
+                1138.2276611328125,
+                364.140869140625
+            ],
+            [
+                385.8699645996094,
+                289.9968566894531,
+                529.35009765625,
+                350.45782470703125
+            ],
+            [
+                478.8337707519531,
+                322.07110595703125,
+                555.8959350585938,
+                501.9136962890625
+            ]
+        ],
+        "classes": [
+            "car",
+            "car",
+            "bicycle"
+        ]
+    },
+    {
+        "img_path": "/mnt/c/Users/alhasan/Documents/Python Scripts/detectron/retrain/faster_retrain/val/images/camera_01__2023-07-06-17-38-55-861.png",
+        "bounding_boxes": [
+            [
+                961.5418701171875,
+                281.431640625,
+                1124.2716064453125,
+                361.5055236816406
+            ],
+            [
+                446.00341796875,
+                292.82305908203125,
+                601.9899291992188,
+                358.9969787597656
+            ],
+            [
+                419.4481506347656,
+                314.0376281738281,
+                483.1012878417969,
+                462.2756652832031
+            ]
+        ],
+        "classes": [
+            "car",
+            "car",
+            "bicycle"
+        ]
+    },
+    {
+        "img_path": "/mnt/c/Users/alhasan/Documents/Python Scripts/detectron/retrain/faster_retrain/val/images/camera_01__2023-07-06-17-38-56-161.png",
+        "bounding_boxes": [
+            [
+                946.3822021484375,
+                279.29852294921875,
+                1109.236328125,
+                360.53857421875
+            ],
+            [
+                487.34637451171875,
+                297.1479797363281,
+                647.9141235351562,
+                363.6302185058594
+            ],
+            [
+                390.26129150390625,
+                309.56231689453125,
+                452.54815673828125,
+                455.0189208984375
+            ]
+        ],
+        "classes": [
+            "car",
+            "car",
+            "bicycle"
+        ]
+    },
+    {
+        "img_path": "/mnt/c/Users/alhasan/Documents/Python Scripts/detectron/retrain/faster_retrain/val/images/camera_01__2023-07-06-17-38-56-528.png",
+        "bounding_boxes": [
+            [
+                925.074951171875,
+                278.4061584472656,
+                1080.4827880859375,
+                356.10321044921875
+            ],
+            [
+                533.9592895507812,
+                300.6744689941406,
+                701.5293579101562,
+                370.54449462890625
+            ],
+            [
+                367.2461242675781,
+                303.0838623046875,
+                422.1987609863281,
+                436.6052551269531
+            ]
+        ],
+        "classes": [
+            "car",
+            "car",
+            "bicycle"
+        ]
+    },
+    {
+        "img_path": "/mnt/c/Users/alhasan/Documents/Python Scripts/detectron/retrain/faster_retrain/val/images/camera_01__2023-07-06-17-38-57-061.png",
+        "bounding_boxes": [
+            [
+                619.3458251953125,
+                305.01806640625,
+                801.8097534179688,
+                384.3499450683594
+            ],
+            [
+                880.653076171875,
+                274.8087158203125,
+                1028.9410400390625,
+                351.0782775878906
+            ],
+            [
+                344.0567626953125,
+                298.54302978515625,
+                390.7433776855469,
+                419.48699951171875
+            ]
+        ],
+        "classes": [
+            "car",
+            "car",
+            "bicycle"
+        ]
+    },
+    {
+        "img_path": "/mnt/c/Users/alhasan/Documents/Python Scripts/detectron/retrain/faster_retrain/val/images/camera_01__2023-07-06-17-38-57-261.png",
+        "bounding_boxes": [
+            [
+                654.3236694335938,
+                309.22491455078125,
+                841.8375854492188,
+                393.1322937011719
+            ],
+            [
+                859.052001953125,
+                274.0892028808594,
+                1013.1868896484375,
+                347.8712463378906
+            ],
+            [
+                337.89764404296875,
+                295.10595703125,
+                382.0986633300781,
+                414.0353088378906
+            ]
+        ],
+        "classes": [
+            "car",
+            "car",
+            "bicycle"
+        ]
+    },
+    {
+        "img_path": "/mnt/c/Users/alhasan/Documents/Python Scripts/detectron/retrain/faster_retrain/val/images/camera_01__2023-07-06-17-38-57-328.png",
+        "bounding_boxes": [
+            [
+                665.7748413085938,
+                309.8731689453125,
+                855.6530151367188,
+                394.1025390625
+            ],
+            [
+                854.8111572265625,
+                272.6943359375,
+                1004.3953247070312,
+                346.0049743652344
+            ],
+            [
+                336.01397705078125,
+                294.8273620605469,
+                379.3758850097656,
+                413.8460998535156
+            ]
+        ],
+        "classes": [
+            "car",
+            "car",
+            "bicycle"
+        ]
+    },
+    {
+        "img_path": "/mnt/c/Users/alhasan/Documents/Python Scripts/detectron/retrain/faster_retrain/val/images/camera_01__2023-07-06-17-38-57-861.png",
+        "bounding_boxes": [
+            [
+                775.259521484375,
+                327.0313415527344,
+                986.2218627929688,
+                422.0548400878906
+            ],
+            [
+                798.0811767578125,
+                269.05242919921875,
+                937.0896606445312,
+                335.79010009765625
+            ],
+            [
+                328.82659912109375,
+                289.2412109375,
+                371.9559020996094,
+                403.75152587890625
+            ]
+        ],
+        "classes": [
+            "car",
+            "car",
+            "bicycle"
+        ]
+    },
+    {
+        "img_path": "/mnt/c/Users/alhasan/Documents/Python Scripts/detectron/retrain/faster_retrain/val/images/camera_01__2023-07-06-17-38-57-928.png",
+        "bounding_boxes": [
+            [
+                788.4876098632812,
+                330.65972900390625,
+                1007.2906494140625,
+                426.7584533691406
+            ],
+            [
+                792.8638916015625,
+                269.0045471191406,
+                929.3104248046875,
+                335.6029968261719
+            ],
+            [
+                329.0293273925781,
+                287.0036315917969,
+                371.03570556640625,
+                399.441650390625
+            ]
+        ],
+        "classes": [
+            "car",
+            "car",
+            "bicycle"
+        ]
+    },
+    {
+        "img_path": "/mnt/c/Users/alhasan/Documents/Python Scripts/detectron/retrain/faster_retrain/val/images/camera_01__2023-07-06-17-38-58-161.png",
+        "bounding_boxes": [
+            [
+                764.0198364257812,
+                266.67950439453125,
+                899.7110595703125,
+                334.5933837890625
+            ],
+            [
+                844.3800048828125,
+                335.66436767578125,
+                1083.9737548828125,
+                444.5922546386719
+            ],
+            [
+                328.5797424316406,
+                286.5978698730469,
+                371.6143798828125,
+                395.39654541015625
+            ]
+        ],
+        "classes": [
+            "car",
+            "car",
+            "bicycle"
+        ]
+    },
+    {
+        "img_path": "/mnt/c/Users/alhasan/Documents/Python Scripts/detectron/retrain/faster_retrain/val/images/camera_01__2023-07-06-17-38-58-461.png",
+        "bounding_boxes": [
+            [
+                725.714599609375,
+                265.8476257324219,
+                857.0234375,
+                330.4875183105469
+            ],
+            [
+                925.1439819335938,
+                352.3116760253906,
+                1191.8629150390625,
+                476.91363525390625
+            ],
+            [
+                333.9384765625,
+                286.8482666015625,
+                376.32830810546875,
+                387.6539306640625
+            ]
+        ],
+        "classes": [
+            "car",
+            "car",
+            "bicycle"
+        ]
+    },
+    {
+        "img_path": "/mnt/c/Users/alhasan/Documents/Python Scripts/detectron/retrain/faster_retrain/val/images/camera_01__2023-07-06-17-38-58-628.png",
+        "bounding_boxes": [
+            [
+                701.55419921875,
+                265.2308349609375,
+                834.70166015625,
+                329.63165283203125
+            ],
+            [
+                974.5307006835938,
+                363.0782470703125,
+                1265.0714111328125,
+                498.1553649902344
+            ],
+            [
+                338.1478576660156,
+                286.4940185546875,
+                381.0867004394531,
+                387.8529968261719
+            ]
+        ],
+        "classes": [
+            "car",
+            "car",
+            "bicycle"
+        ]
+    },
+    {
+        "img_path": "/mnt/c/Users/alhasan/Documents/Python Scripts/detectron/retrain/faster_retrain/val/images/camera_01__2023-07-06-18-58-30-585.png",
+        "bounding_boxes": [
+            [
+                765.5950927734375,
+                246.63229370117188,
+                820.3035888671875,
+                314.27734375
+            ]
+        ],
+        "classes": [
+            "bicycle"
+        ]
+    },
+    {
+        "img_path": "/mnt/c/Users/alhasan/Documents/Python Scripts/detectron/retrain/faster_retrain/val/images/camera_01__2023-07-06-18-58-30-885.png",
+        "bounding_boxes": [
+            [
+                743.3834228515625,
+                249.60182189941406,
+                795.9891967773438,
+                319.0684814453125
+            ]
+        ],
+        "classes": [
+            "bicycle"
+        ]
+    },
+    {
+        "img_path": "/mnt/c/Users/alhasan/Documents/Python Scripts/detectron/retrain/faster_retrain/val/images/camera_01__2023-07-06-18-58-30-985.png",
+        "bounding_boxes": [
+            [
+                731.3029174804688,
+                249.34901428222656,
+                785.300048828125,
+                322.1244812011719
+            ]
+        ],
+        "classes": [
+            "bicycle"
+        ]
+    },
+    {
+        "img_path": "/mnt/c/Users/alhasan/Documents/Python Scripts/detectron/retrain/faster_retrain/val/images/camera_01__2023-07-06-18-58-31-419.png",
+        "bounding_boxes": [
+            [
+                680.0166625976562,
+                261.0867919921875,
+                739.1497802734375,
+                324.456298828125
+            ]
+        ],
+        "classes": [
+            "bicycle"
+        ]
+    },
+    {
+        "img_path": "/mnt/c/Users/alhasan/Documents/Python Scripts/detectron/retrain/faster_retrain/val/images/camera_01__2023-07-06-18-58-31-785.png",
+        "bounding_boxes": [
+            [
+                641.6461791992188,
+                257.41473388671875,
+                699.0695190429688,
+                327.7037658691406
+            ]
+        ],
+        "classes": [
+            "bicycle"
+        ]
+    },
+    {
+        "img_path": "/mnt/c/Users/alhasan/Documents/Python Scripts/detectron/retrain/faster_retrain/val/images/camera_01__2023-07-06-18-58-31-952.png",
+        "bounding_boxes": [
+            [
+                623.4678344726562,
+                257.6968078613281,
+                683.1082153320312,
+                330.1843566894531
+            ]
+        ],
+        "classes": [
+            "bicycle"
+        ]
+    },
+    {
+        "img_path": "/mnt/c/Users/alhasan/Documents/Python Scripts/detectron/retrain/faster_retrain/val/images/camera_01__2023-07-06-18-58-32-485.png",
+        "bounding_boxes": [
+            [
+                556.5133666992188,
+                262.00201416015625,
+                623.8007202148438,
+                338.5184020996094
+            ]
+        ],
+        "classes": [
+            "bicycle"
+        ]
+    },
+    {
+        "img_path": "/mnt/c/Users/alhasan/Documents/Python Scripts/detectron/retrain/faster_retrain/val/images/camera_01__2023-07-06-18-58-32-785.png",
+        "bounding_boxes": [
+            [
+                515.5595703125,
+                268.9118347167969,
+                585.2492065429688,
+                345.0018615722656
+            ]
+        ],
+        "classes": [
+            "bicycle"
+        ]
+    },
+    {
+        "img_path": "/mnt/c/Users/alhasan/Documents/Python Scripts/detectron/retrain/faster_retrain/val/images/camera_01__2023-07-06-18-58-33-185.png",
+        "bounding_boxes": [
+            [
+                461.91192626953125,
+                275.79083251953125,
+                533.957275390625,
+                351.70751953125
+            ]
+        ],
+        "classes": [
+            "bicycle"
+        ]
+    },
+    {
+        "img_path": "/mnt/c/Users/alhasan/Documents/Python Scripts/detectron/retrain/faster_retrain/val/images/camera_01__2023-07-06-18-58-33-352.png",
+        "bounding_boxes": [
+            [
+                444.8765563964844,
+                275.8225402832031,
+                512.2876586914062,
+                355.5971374511719
+            ]
+        ],
+        "classes": [
+            "bicycle"
+        ]
+    },
+    {
+        "img_path": "/mnt/c/Users/alhasan/Documents/Python Scripts/detectron/retrain/faster_retrain/val/images/camera_01__2023-07-06-18-58-33-385.png",
+        "bounding_boxes": [
+            [
+                441.5563659667969,
+                273.7550048828125,
+                507.8841247558594,
+                357.8921203613281
+            ]
+        ],
+        "classes": [
+            "bicycle"
+        ]
+    },
+    {
+        "img_path": "/mnt/c/Users/alhasan/Documents/Python Scripts/detectron/retrain/faster_retrain/val/images/camera_01__2023-07-06-18-58-33-419.png",
+        "bounding_boxes": [
+            [
+                438.53662109375,
+                273.3619384765625,
+                503.3779602050781,
+                357.44537353515625
+            ]
+        ],
+        "classes": [
+            "bicycle"
+        ]
+    },
+    {
+        "img_path": "/mnt/c/Users/alhasan/Documents/Python Scripts/detectron/retrain/faster_retrain/val/images/camera_01__2023-07-06-18-58-33-585.png",
+        "bounding_boxes": [
+            [
+                417.6170349121094,
+                277.1676330566406,
+                481.79766845703125,
+                360.6933288574219
+            ]
+        ],
+        "classes": [
+            "bicycle"
+        ]
+    },
+    {
+        "img_path": "/mnt/c/Users/alhasan/Documents/Python Scripts/detectron/retrain/faster_retrain/val/images/camera_01__2023-07-06-18-58-33-885.png",
+        "bounding_boxes": [
+            [
+                389.7987365722656,
+                283.3663330078125,
+                438.3894348144531,
+                367.0768737792969
+            ]
+        ],
+        "classes": [
+            "bicycle"
+        ]
+    },
+    {
+        "img_path": "/mnt/c/Users/alhasan/Documents/Python Scripts/detectron/retrain/faster_retrain/val/images/camera_01__2023-07-06-18-58-35-652.png",
+        "bounding_boxes": [
+            [
+                373.2444763183594,
+                296.4444580078125,
+                420.1668701171875,
+                409.6534423828125
+            ]
+        ],
+        "classes": [
+            "bicycle"
+        ]
+    },
+    {
+        "img_path": "/mnt/c/Users/alhasan/Documents/Python Scripts/detectron/retrain/faster_retrain/val/images/camera_01__2023-07-06-18-58-35-785.png",
+        "bounding_boxes": [
+            [
+                382.58636474609375,
+                298.855712890625,
+                433.2547912597656,
+                414.384521484375
+            ]
+        ],
+        "classes": [
+            "bicycle"
+        ]
+    },
+    {
+        "img_path": "/mnt/c/Users/alhasan/Documents/Python Scripts/detectron/retrain/faster_retrain/val/images/camera_01__2023-07-06-18-58-36-185.png",
+        "bounding_boxes": [
+            [
+                416.99755859375,
+                304.81951904296875,
+                468.1258239746094,
+                425.1080627441406
+            ]
+        ],
+        "classes": [
+            "bicycle"
+        ]
+    },
+    {
+        "img_path": "/mnt/c/Users/alhasan/Documents/Python Scripts/detectron/retrain/faster_retrain/val/images/camera_01__2023-07-06-18-58-36-885.png",
+        "bounding_boxes": [
+            [
+                488.1838073730469,
+                314.55389404296875,
+                548.3617553710938,
+                454.0628967285156
+            ]
+        ],
+        "classes": [
+            "bicycle"
+        ]
+    },
+    {
+        "img_path": "/mnt/c/Users/alhasan/Documents/Python Scripts/detectron/retrain/faster_retrain/val/images/camera_01__2023-07-06-18-58-37-352.png",
+        "bounding_boxes": [
+            [
+                544.4927368164062,
+                324.95928955078125,
+                612.7774047851562,
+                479.9151306152344
+            ]
+        ],
+        "classes": [
+            "bicycle"
+        ]
+    },
+    {
+        "img_path": "/mnt/c/Users/alhasan/Documents/Python Scripts/detectron/retrain/faster_retrain/val/images/camera_01__2023-07-06-18-58-37-485.png",
+        "bounding_boxes": [
+            [
+                560.7604370117188,
+                329.68121337890625,
+                633.613525390625,
+                485.5472717285156
+            ]
+        ],
+        "classes": [
+            "bicycle"
+        ]
+    },
+    {
+        "img_path": "/mnt/c/Users/alhasan/Documents/Python Scripts/detectron/retrain/faster_retrain/val/images/camera_01__2023-07-06-18-58-37-885.png",
+        "bounding_boxes": [
+            [
+                616.0643310546875,
+                344.4142150878906,
+                691.2789306640625,
+                517.2836303710938
+            ]
+        ],
+        "classes": [
+            "bicycle"
+        ]
+    },
+    {
+        "img_path": "/mnt/c/Users/alhasan/Documents/Python Scripts/detectron/retrain/faster_retrain/val/images/camera_01__2023-07-06-18-58-37-985.png",
+        "bounding_boxes": [
+            [
+                631.9529418945312,
+                346.8280334472656,
+                707.830322265625,
+                530.4429931640625
+            ]
+        ],
+        "classes": [
+            "bicycle"
+        ]
+    },
+    {
+        "img_path": "/mnt/c/Users/alhasan/Documents/Python Scripts/detectron/retrain/faster_retrain/val/images/camera_01__2023-07-06-18-58-38-485.png",
+        "bounding_boxes": [
+            [
+                709.350341796875,
+                373.21954345703125,
+                797.654541015625,
+                586.7291870117188
+            ]
+        ],
+        "classes": [
+            "bicycle"
+        ]
+    },
+    {
+        "img_path": "/mnt/c/Users/alhasan/Documents/Python Scripts/detectron/retrain/faster_retrain/val/images/camera_01__2023-07-06-18-58-39-052.png",
+        "bounding_boxes": [
+            [
+                813.5179443359375,
+                415.4488525390625,
+                928.54833984375,
+                682.4849243164062
+            ]
+        ],
+        "classes": [
+            "bicycle"
+        ]
+    },
+    {
+        "img_path": "/mnt/c/Users/alhasan/Documents/Python Scripts/detectron/retrain/faster_retrain/val/images/camera_01__2023-07-06-18-58-39-285.png",
+        "bounding_boxes": [
+            [
+                867.236572265625,
+                435.5031433105469,
+                991.1572875976562,
+                733.2774047851562
+            ]
+        ],
+        "classes": [
+            "bicycle"
+        ]
+    },
+    {
+        "img_path": "/mnt/c/Users/alhasan/Documents/Python Scripts/detectron/retrain/faster_retrain/val/images/camera_01__2023-07-06-18-58-39-352.png",
+        "bounding_boxes": [
+            [
+                882.6011962890625,
+                444.1314392089844,
+                1012.7747192382812,
+                754.9923095703125
+            ]
+        ],
+        "classes": [
+            "bicycle"
+        ]
+    },
+    {
+        "img_path": "/mnt/c/Users/alhasan/Documents/Python Scripts/detectron/retrain/faster_retrain/val/images/camera_01__2023-07-06-18-58-39-385.png",
+        "bounding_boxes": [
+            [
+                890.8743896484375,
+                445.5684509277344,
+                1028.656982421875,
+                757.0509033203125
+            ]
+        ],
+        "classes": [
+            "bicycle"
+        ]
+    },
+    {
+        "img_path": "/mnt/c/Users/alhasan/Documents/Python Scripts/detectron/retrain/faster_retrain/val/images/camera_01__2023-07-06-18-58-39-485.png",
+        "bounding_boxes": [
+            [
+                916.0719604492188,
+                465.1433410644531,
+                1053.360595703125,
+                795.0537109375
+            ]
+        ],
+        "classes": [
+            "bicycle"
+        ]
+    },
+    {
+        "img_path": "/mnt/c/Users/alhasan/Documents/Python Scripts/detectron/retrain/faster_retrain/val/images/camera_01__2023-07-06-18-58-39-585.png",
+        "bounding_boxes": [
+            [
+                943.5657958984375,
+                478.8698425292969,
+                1087.4212646484375,
+                825.110595703125
+            ]
+        ],
+        "classes": [
+            "bicycle"
+        ]
+    },
+    {
+        "img_path": "/mnt/c/Users/alhasan/Documents/Python Scripts/detectron/retrain/faster_retrain/val/images/camera_01__2023-07-06-18-58-39-685.png",
+        "bounding_boxes": [
+            [
+                974.6973876953125,
+                498.7668762207031,
+                1128.5396728515625,
+                863.9396362304688
+            ]
+        ],
+        "classes": [
+            "bicycle"
+        ]
+    },
+    {
+        "img_path": "/mnt/c/Users/alhasan/Documents/Python Scripts/detectron/retrain/faster_retrain/val/images/camera_01__2023-07-06-18-58-39-885.png",
+        "bounding_boxes": [
+            [
+                1037.0302734375,
+                540.437255859375,
+                1211.093505859375,
+                960.16162109375
+            ]
+        ],
+        "classes": [
+            "bicycle"
+        ]
+    },
+    {
+        "car": 74,
+        "bicycle": 66
+    }
+]
